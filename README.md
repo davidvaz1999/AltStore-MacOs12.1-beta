@@ -1,6 +1,7 @@
 # AltStore-MacOs12.1-beta
 # Mail AltServer pluggin para la beta 21C5045a (12.1) de MacOS Monterey  
 # Compatible también con la versión RC (final) 21C51 12.1 (MacOS Monterey)
+# Compatible con la beta 21D5025f (12.2) de MacOS Monterey // 18-12-2021
 
 
 Reemplazar /Library/Mail/Bundles/AltPlugin.mailbundle con el contenido de este repositorio
